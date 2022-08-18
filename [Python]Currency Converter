@@ -1,0 +1,38 @@
+import requests
+import json
+x = input()
+r = requests.get(f'http://www.floatrates.com/daily/{x}.json')
+cache = {}
+while True:
+    y = input()
+    if y == "":
+            break
+    if y == 'usd':
+        req = requests.get(f'http://www.floatrates.com/daily/{x}.json')
+        j1 = req.json()
+        j1 = j1['usd']
+        j1 = j1['rate']
+        cache1 = {y: j1, }
+        cache.update(cache1)
+    if y == 'eur':
+        req = requests.get(f'http://www.floatrates.com/daily/{x}.json')
+        j1 = req.json()
+        j1 = j1['eur']
+        j1 = j1['rate']
+        cache1 = {y: j1,}
+        cache.update(cache1)
+
+    z = float(input())
+    print('Checking the cache...')
+    if y in cache:
+        print('Oh! It is in the cache!')
+        f2 = round((z * cache[y]), 2)
+        print(f'You received {f2} {y.upper()}.')
+    elif y not in cache:
+        print('Sorry, but it is not in the cache!')
+        r1 = r.json()[y]
+        r2 = r1['rate']
+        r3 = round(z * r2, 2)
+        cache1 = {y: r2,}
+        cache.update(cache1)
+        print(f'You received {r3} {y.upper()}.')
