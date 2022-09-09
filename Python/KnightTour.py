@@ -240,5 +240,5 @@ def main():
     else:
         check_position()
 
-
+print('  --  --- Razmakhnin codes ---  --\n github.com/Razmakhninoff/Razmakhnin_Codes\n')
 main()
