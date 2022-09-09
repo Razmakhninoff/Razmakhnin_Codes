@@ -1,2 +1,6 @@
 # Razmakhnin_Codes
-My collection of codes
+
+Welcome!
+
+I`m Max,
+and it`s collection of my codes
