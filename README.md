@@ -1,6 +1,6 @@
 # Razmakhnin_Codes
 >>>>>>>>>
-# Welcome!
+# Welcome, mate!
 ## I'm **Max**,
 ### and it's collection of my codes
 ### LINK on my social networks 
