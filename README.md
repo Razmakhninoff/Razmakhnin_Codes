@@ -8,3 +8,9 @@
 ###### **Ukraine** :yellow_square::blue_square:
 ###### Stay with `Ukraine`.
 
+ |   **TO DO**      |   **IN PROGRESS**  |
+ | ---------------- | ------------------ |
+ |   Python         | Python Core        |
+ |   HTML           |                    |
+ |   CSS            |                    |
+ |   JavaScript     |                    |
