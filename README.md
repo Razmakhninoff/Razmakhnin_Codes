@@ -1,6 +1,4 @@
 # Razmakhnin_Codes
-
-//////////////////////
 >>>>>>>>>
 # Welcome!
 ## I'm **Max**,
@@ -8,4 +6,4 @@
 ### LINK on my social networks 
 #### https://taplink.cc/razmakhnin.official
 ##### **Ukraine.**
-//////////////////////
+
