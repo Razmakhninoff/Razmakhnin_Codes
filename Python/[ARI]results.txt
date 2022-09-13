@@ -1,0 +1,16 @@
+max: 0/5 in level 1 (simple operations with numbers 2-9).
+Max: 5/5 in level 1 (simple operations with numbers 2-9).
+Maxx: 2/5 in level 1 (simple operations with numbers 2-9).
+max: 3/5 in level 1 (simple operations with numbers 2-9).
+Max: 0/5 in level 1 (simple operations with numbers 2-9).
+Noob: 4/5 in level 1 (simple operations with numbers 2-9).
+Noob2: 0/5 in level 1 (simple operations with numbers 2-9).
+Maxks: 0/5 in level 1 (simple operations with numbers 2-9).
+asdasd: 5/5 in level 1 (simple operations with numbers 2-9).
+123123: 0/5 in level 1 (simple operations with numbers 2-9).
+xasd: 1/5 in level 1 (simple operations with numbers 2-9).
+asd: 0/5 in level 1 (simple operations with numbers 2-9).
+gsdfh: 2/5 in level 1 (simple operations with numbers 2-9).
+123: 0/5 in level 1 (simple operations with numbers 2-9).
+gsd: 0/5 in level 1 (simple operations with numbers 2-9).
+Max: 4/5 in level 2 (integral squares of 11 - 29).
