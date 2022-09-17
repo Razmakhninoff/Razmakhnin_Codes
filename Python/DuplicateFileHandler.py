@@ -3,7 +3,7 @@ import os
 import argparse
 
 #python DuplicateFileHandler.py module
-
+print('  --  --- Razmakhnin codes ---  --\n github.com/Razmakhninoff/Razmakhnin_Codes\n')
 def save_files(inp_path):
     size_dict = {}
     sort_dict = {}
