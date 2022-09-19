@@ -49,7 +49,7 @@ def decimal_to_binary(number):
     return dec_list
 
 
-def binary_to_hex(number):
+def binary_to_hex(number):  # MAX 16 digits
     bina_he = number
     hex_list = []
     bina_he_2 = []
