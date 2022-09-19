@@ -1,5 +1,3 @@
-print('  --  --- Razmakhnin codes ---  --\n github.com/Razmakhninoff/Razmakhnin_Codes\n')
-
 
 choice_dic = {'1': '[Binary->Decimal]', '2': '[Binary->hex]', '3': '[Decimal->Binary]',
               '4': '[Decimal->Hex]', '5': '[Hex->Binary]', '6': '[Hex->Decimal]'}
@@ -79,6 +77,7 @@ def hex_to_binary(number):
 
 
 def main():
+    print('  --  --- Razmakhnin codes ---  --\n github.com/Razmakhninoff/Razmakhnin_Codes\n')
     print('-- Options - -\n ___choose(0-6)')
     while True:
         print('''---   ---------  ---
