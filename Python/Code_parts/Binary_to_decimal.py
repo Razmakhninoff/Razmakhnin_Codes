@@ -4,7 +4,7 @@ print('  --  --- Razmakhnin codes ---  --\n github.com/Razmakhninoff/Razmakhnin_
 #100010 =  34
 #1 * 2**5 + 0 * 2**4 + 0 * 2**3 + 0 * 2**2 + 1 * 2**1 + 0 * 2**0
 
-x = input('Enter you Binary number to convert in decimal').split()
+x = input('Enter you Binary number to convert in decimal:\n').split()
 total = []
 list = []
 d2 = []
